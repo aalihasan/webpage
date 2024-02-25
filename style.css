@@ -1,0 +1,110 @@
+.bd {
+  background-image: url(image/winter.png);
+}
+.container {
+  margin: auto;
+
+  width: 400px;
+  height: 600px;
+  border-radius: 20px;
+  box-sizing: border-box;
+  border: none;
+}
+.top-header {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 300;
+  font-size: medium;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  font-weight: bold;
+  padding-top: 10px;
+  color: rgb(239, 239, 244);
+}
+
+.lo {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 300;
+  margin-top: 7px;
+  padding-top: 2px;
+  color: rgb(239, 239, 244);
+  font-weight: bold;
+  font-variant: small-caps;
+}
+
+.user {
+  width: 90%;
+  margin-left: 5px;
+  padding: 10px;
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+  background-color: aqua;
+  box-sizing: border-box;
+}
+.pas {
+  width: 90%;
+  margin-left: 5px;
+  padding: 10px;
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+  background-color: aqua;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  color: rgb(10, 9, 14);
+}
+
+.log {
+  width: 90%;
+  margin-top: 20px;
+  font-weight: bold;
+
+  padding: 9px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  background-color: rgb(233, 233, 237);
+  box-sizing: border-box;
+  font-size: medium;
+  color: aqua;
+}
+.check {
+  width: 5%;
+  height: 5%;
+  margin-left: 20px;
+  background-color: blue;
+}
+.pass {
+  width: 90%;
+  margin-right: 10px;
+  padding: 10px;
+  margin-left: 40px;
+  margin-top: 20px;
+  border-radius: 10px;
+  font-weight: bold;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  border: none;
+  color: rgb(226, 232, 218);
+  font-variant: small-caps;
+}
+.me {
+  color: beige;
+  font-family: arial;
+
+  font-variant: small-caps;
+}
+.form {
+  color: azure;
+  text-align: center;
+
+  font-style: normal;
+  font-weight: bold;
+  font-variant: small-caps;
+  font-size: 80px;
+  border: none;
+  box-sizing: border-box;
+  margin: 10px;
+}
